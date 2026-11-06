@@ -1,0 +1,66 @@
+
+{
+  "saudacao": {
+    "resposta": "Olá! Seja bem-vindo ao nosso banco. 😊 Como podemos ajudar você hoje?"
+  },
+  "bloqueio": {
+    "resposta": "Para sua segurança, você pode bloquear seu cartão pelo aplicativo, acessando a área de cartões. Se houve roubo, perda ou suspeita de fraude, entre em contato imediatamente com o atendimento oficial."
+  },
+  "desbloqueio": {
+    "resposta": "Para desbloquear seu cartão, acesse o aplicativo do banco, entre na opção Cartões e selecione Desbloquear. Caso não consiga realizar o procedimento, procure nosso atendimento."
+  },
+  "limite": {
+    "resposta": "Você pode consultar seu limite disponível na área de cartões do aplicativo. Para solicitar aumento ou redução, acesse Gerenciar limite. O aumento está sujeito à análise de crédito."
+  },
+  "fatura": {
+    "resposta": "Para consultar sua fatura, acesse a opção Cartões no aplicativo e selecione Fatura. Você poderá visualizar o valor total, vencimento, compras realizadas e opções de pagamento."
+  },
+  "cancelamento": {
+    "resposta": "Entendemos sua solicitação. Para cancelar seu cartão, conta ou serviço, acesse o aplicativo ou entre em contato com nosso atendimento oficial. Verifique eventuais pendências antes de confirmar o cancelamento."
+  },
+  "seguranca": {
+    "resposta": "Sua segurança é nossa prioridade! Caso suspeite de fraude, bloqueie imediatamente o cartão ou os acessos comprometidos, quando possível, e entre em contato com o banco pelos canais oficiais. Nunca compartilhe senhas ou códigos de autenticação."
+  },
+  "compras": {
+    "resposta": "Você pode consultar suas compras na área de cartões do aplicativo. Se identificar uma transação desconhecida, utilize a opção de contestação ou entre em contato com nosso atendimento para receber orientação."
+  },
+  "atendimento": {
+    "resposta": "Claro! Estamos aqui para ajudar. 😊 Para falar com um atendente humano, acesse a opção Atendimento ou Fale Conosco no aplicativo oficial do banco."
+  },
+  "senha_acesso": {
+    "resposta": "Se você esqueceu sua senha ou não consegue acessar sua conta, utilize a opção Esqueci minha senha na tela inicial do aplicativo. Siga as instruções para recuperar seu acesso."
+  },
+  "pix": {
+    "resposta": "Você pode consultar suas transferências na área Pix ou no extrato bancário. Caso tenha enviado um Pix incorretamente ou não reconheça uma transação, entre em contato imediatamente com o banco pelos canais oficiais."
+  },
+  "saque": {
+    "resposta": "Você pode consultar seus saques pelo extrato bancário. Se o valor foi debitado, mas o dinheiro não foi liberado pelo caixa eletrônico, registre uma ocorrência junto ao banco."
+  },
+  "dados_cadastrais": {
+    "resposta": "Para atualizar seus dados cadastrais, acesse o aplicativo e procure a opção Perfil ou Dados pessoais. Alguns dados podem exigir confirmação de identidade."
+  },
+  "encerramento": {
+    "resposta": "Agradecemos pelo contato! 😊 Foi um prazer ajudar você. Desejamos um excelente dia e esperamos atendê-lo novamente em breve!"
+  },
+  "deposito": {
+    "resposta": "Para consultar seus depósitos, acesse o extrato bancário pelo aplicativo. Se realizou um depósito e o valor ainda não apareceu, verifique o prazo de compensação e entre em contato com o atendimento caso necessário."
+  },
+  "saldo": {
+    "resposta": "Você pode consultar seu saldo atualizado acessando a tela inicial do aplicativo ou a opção Conta. Para verificar movimentações, consulte também seu extrato bancário."
+  },
+  "emprestimo": {
+    "resposta": "Para consultar opções de empréstimo, acesse a área Crédito no aplicativo. Você poderá verificar ofertas disponíveis, taxas, parcelas e condições. A contratação está sujeita à análise de crédito."
+  },
+  "extrato": {
+    "resposta": "Para consultar seu extrato, acesse a opção Conta no aplicativo e selecione Extrato. Você poderá visualizar suas movimentações e, quando disponível, baixar o documento em PDF."
+  },
+  "cartao_anuidade": {
+    "resposta": "Para consultar informações sobre a anuidade do cartão, acesse a área Cartões no aplicativo. Lá você poderá verificar cobranças, valores e condições de isenção, conforme o tipo de cartão contratado."
+  },
+  "cartao_adicional": {
+    "resposta": "Para solicitar ou consultar um cartão adicional, acesse a área Cartões no aplicativo e procure a opção Cartão adicional. A disponibilidade, os limites e as condições dependem do produto contratado."
+  },
+  "intencao_desconhecida": {
+    "resposta": "Desculpe, não consegui compreender sua solicitação. Poderia explicar melhor o que você precisa? Assim podemos direcionar seu atendimento corretamente."
+  }
+}
